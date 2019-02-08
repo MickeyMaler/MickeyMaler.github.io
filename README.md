@@ -31,19 +31,19 @@ Get ready, we are about to start.
 2. Draw four little circles by the places where our imaginary square should have its corners. (picture one)
 
 image::Images/zaklad.PNG[Corners of our house]
-
+![](image.png)
 
 * Starting from the left bottom point, we will circulate in the counterclockwise direction, labeling the corner points with numbers from 1 to 4 (picture two)
 
 image::Images/cisla.PNG[Orientation]
-
+![](image.png)
 
 
 * When we are done with our first 4 points, we can put a fifth point (the top of the house)
 somewhere in between points 3 - 4, slightly above our square construction. That will create our last point, the point number five
 
 image::Images/5.PNG[Circle 5 is on the top]
-
+![](image.png)
 
 
 * Since we have a backbone of our house created by those 5 points we can step forward to our finishing move.
@@ -58,8 +58,8 @@ Draw a line from point 1 and head north to point 4. Continue with your hand to p
 
 If you have made those moves correctly you should be able to see something like this:
 
-image::Images/final.PNG[Circle 5 is on the top]
 
+![Circle 5 is on the top](Images/final.PNG)
 
 
 ### Congratulation
