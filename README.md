@@ -1,12 +1,12 @@
 # MickeyMaler.github.io
 4RedHat
 *******************************************************************************************************
-Project built using Mardown language with combination with Asciidoc. Written in Atom. Compiled into HTML
+_Project built using Mardown. Written in Atom._
 
-Source code
+<center>_Source code_</center>
 ********************************************************************************************************
 
-== The House with one move
+## The House with one move
 
 Hello and welcome to this little guide which will help you to draw a house in one continual move in the way, where none of the paths of the graph has been used more than once.
 
@@ -30,20 +30,17 @@ Get ready, we are about to start.
 1. Imagine a simple square
 2. Draw four little circles by the places where our imaginary square should have its corners. (picture one)
 
-image::Images/zaklad.PNG[Corners of our house]
-![](image.png)
+![Corners of our house](Images/zaklad.PNG)
 
 * Starting from the left bottom point, we will circulate in the counterclockwise direction, labeling the corner points with numbers from 1 to 4 (picture two)
 
-image::Images/cisla.PNG[Orientation]
-![](image.png)
+![Orientation](Images/cisla.PNG)
 
 
 * When we are done with our first 4 points, we can put a fifth point (the top of the house)
 somewhere in between points 3 - 4, slightly above our square construction. That will create our last point, the point number five
 
-image::Images/5.PNG[Circle 5 is on the top]
-![](image.png)
+![Circle 5 is on the top](Images/5.PNG)
 
 
 * Since we have a backbone of our house created by those 5 points we can step forward to our finishing move.
